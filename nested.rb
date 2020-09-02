@@ -114,7 +114,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-puts changing_alan[:alan_kay][:known_for] => "GUI"
+puts changing_alan[:alan_kay][:known_for] = "GUI"
 end
 
 def adding_to_dennis
